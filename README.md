@@ -4,9 +4,10 @@ Currently, I am pursuing Bachelors in Computer Science from Fast-NUCES and I wil
 
 ### Computer Skills
 - MS Office (All versions, esp.MS Word)
-- Programming Languages (C,C++,Java,Python,Assembly)
-- Web App Development (HTML, CSS, JavaScript, ReactJs, NodeJs)
-- Database Management (MySQL, MongoDB)
+- Programming Languages (C / C++ / Java / Python / Assembly)
+- Web App Development (HTML / CSS / JavaScript / ReactJs / NodeJs)
+- Desktop App Development
+- Database Management (MySQL / MongoDB)
 - Data Science and Artifical Intelligence
 <!--
 **MonisaHassanAlvi/MonisaHassanAlvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
