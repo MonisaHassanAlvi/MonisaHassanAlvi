@@ -10,6 +10,14 @@ Soon, I will be starting my career as an Associate Software Engineer.
 - Desktop App Development
 - Database Management (MySQL / MongoDB)
 - Data Science and Artifical Intelligence
+
+### Interests
+- Volunteer Work
+- Social Issues
+- Skteching
+- Novel Reaing
+- Badminton
+
 <!--
 **MonisaHassanAlvi/MonisaHassanAlvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
