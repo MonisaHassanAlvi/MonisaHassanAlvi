@@ -12,7 +12,7 @@ Soon, I will be starting my career as an Associate Software Engineer.
 - Data Science and Artifical Intelligence
 
 ### Interests
-- Volunteer Work
+- Volunteer Work :)
 - Social Issues
 - Skteching
 - Novel Reaing
