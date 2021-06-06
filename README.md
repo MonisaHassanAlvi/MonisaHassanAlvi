@@ -1,9 +1,13 @@
-### ABOUT ME
+### About ME
 Hi there 👋 I am Monisa Hassan Alvi.
 Currently, I am pursuing Bachelors in Computer Science from Fast-NUCES and I will be completing my graduation in the next couple of months. Soon, I will be starting my career as an Associate Software Engineer.
 
-### MY SKILLS
-
+### Computer Skills
+- MS Office (All versions, esp.MS Word)
+- Programming Languages (C,C++,Java,Python,Assembly)
+- Web App Development (HTML, CSS, JavaScript, ReactJs, NodeJs)
+- Database Management (MySQL, MongoDB)
+- Data Science and Artifical Intelligence
 <!--
 **MonisaHassanAlvi/MonisaHassanAlvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
