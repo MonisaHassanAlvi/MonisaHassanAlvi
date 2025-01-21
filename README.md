@@ -1,15 +1,11 @@
 # About ME
 Hi there 👋 I am Monisa Hassan Alvi.
-Currently, I am pursuing Bachelors in Computer Science from Fast-NUCES and I will be completing my graduation in the next couple of months. 
-Soon, I will be starting my career as an Associate Software Engineer.
+I did my Bachelors in Computer Science from Fast-NUCES in 2021 and I have 3.5 years of experience in Moobile Application Development.
 
 # Computer Skills
 - MS Office (All versions, esp.MS Word)
-- Programming Languages (C / C++ / Java / Python / Assembly)
-- Web App Development (HTML / CSS / JavaScript / ReactJs / NodeJs / Vue.js)
-- Desktop App Development
+- Programming Languages (Javascript /React Native / Noode Js / HTML / CSS)
 - Database Management (MySQL / MongoDB)
-- Data Science and Artifical Intelligence
 
 # Interests
 - Volunteer Work
