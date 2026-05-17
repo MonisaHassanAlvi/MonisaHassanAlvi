@@ -1,36 +1,63 @@
-# About ME
-Hi there 👋 I am Monisa Hassan Alvi.
-I did my Bachelors in Computer Science from Fast-NUCES in 2021 and I have 3.5 years of experience in Moobile Application Development.
+# Hi there, I'm Monisa Hassan Alvi 👋
 
-# Computer Skills
-- MS Office (All versions, esp.MS Word)
-- Programming Languages (Javascript /React Native / Noode Js / HTML / CSS)
-- Database Management (MySQL / MongoDB)
+Senior Software Engineer with 4+ years of experience in backend systems, mobile applications, and the Microsoft Power Platform. Currently pursuing my MSc in International Information Systems at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany.
 
-# Interests
-- Volunteer Work
-- Social Issues
-- Skteching
-- Novel Reaing
+---
+
+## 🔭 What I'm working on
+- Working Student at **Siemens Healthineers** — building Power Apps for Baukasten Program Management, automating workflows with Power Automate, and creating Power BI dashboards connected to SharePoint to support business decision-making.
+- MSc coursework in International Information Systems at FAU.
+
+## 🌱 What I'm currently learning
+- Advanced Power Platform development (Power Apps, Power Automate, Power BI)
+- Enterprise information systems and data-driven architectures
+
+---
+
+## 💻 Technical Skills
+
+**Power Platform & Reporting**
+`Power Apps` `Power BI` `Power Automate` `SharePoint` `Tableau` `Excel` `Confluence` `Jira`
+
+**Programming & Frameworks**
+`NestJS` `Node.js` `React Native` `TypeScript` `JavaScript (ES6+)` `Swift` `Python`
+
+**Backend & APIs**
+`RESTful APIs` `Microservices` `RabbitMQ` `Express.js`
+
+**Cloud & DevOps**
+`Docker` `AWS` `Google Cloud Platform` `CI/CD` `GitHub Actions`
+
+**Databases**
+`PostgreSQL` `MongoDB` `Firestore` `SharePoint Lists`
+
+---
+
+## 🚀 Featured Projects
+
+- **Raff 2.0** — NestJS microservices backend for a Saudi-based POS and vendor management system
+- **Fasset** — Social feed & education modules for a crypto platform operating across UAE, Indonesia, Turkey & Pakistan
+- **JustCheck** — Car service booking app with Google Maps, Stripe, and Stream Chat integration
+- **WAGL** — Social list-sharing app with real-time chat and multi-platform social login
+- **CloudGenie** — Mobile app enabling natural language queries over SQL databases
+
+---
+
+## 🎓 Education
+- **MSc International Information Systems** — FAU Erlangen-Nürnberg (2025–2027)
+- **BSc Computer Science** — NUCES FAST (2017–2021) | Dean's Honor List 2019
+
+---
+
+## ✨ Interests
+- Volunteer work & social causes
+- Sketching
+- Novel reading
 - Badminton
 
-# Passions
-- I am passionate about learning new things and technologies. 
-- I am passionate about creating such products and apps that helps to make people’s experience with technology memorable.
+---
 
-# My Motivation
-The gratification of overcoming an obstacle is my greatest motivator.The feeling of accomplishment that comes with exceeding challenging goals is what drew me to a career in development.
-<!--
-**MonisaHassanAlvi/MonisaHassanAlvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- 📧 monisahassanalvi00@gmail.com
+- 💼 [LinkedIn: Monisa Hassan Alvi](https://www.linkedin.com/in/monisa-hassan-alvi-43a2391b3/)
+- 📍 Nürnberg, Germany
